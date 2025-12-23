@@ -1,26 +1,12 @@
-\# KEYLOGGER
-
-
-
+# KEYLOGGER
 A simple keylogger for DOS and a parser for logs
 
-
-
-\## Overview
-
-
-
+## Overview
 The repository contains two programs:
+ - KLOGGER: a keylogger which writes logs to file **MYFILE.BIN**
+ - KPARSER: a parser which comverts logs from **MYFILE.BIN** to text
 
-&nbsp;- KLOGGER: a keylogger which writes logs to file \*\*MYFILE.BIN\*\*
-
-&nbsp;- KPARSER: a parser which comverts logs from \*\*MYFILE.BIN\*\* to text
-
-
-
-\## Building
-
-&nbsp;- Build it via TASM: all files included in repository.
-
-&nbsp;- TD for debugging is also included 
+## Building
+ - Build it via **TASM**: all files included in repository
+ - **TD** for debugging is also included
 
