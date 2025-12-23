@@ -1,0 +1,5 @@
+*.map
+*.obj
+*.bin
+_HOLY_FILES/*
+ 
